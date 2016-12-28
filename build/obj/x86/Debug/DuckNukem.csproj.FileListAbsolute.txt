@@ -1,0 +1,5 @@
+C:\Users\Kyle\Documents\DuckGame\Mods\DuckNukem\build\obj\x86\Debug\DuckNukem.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\DuckGame\Mods\DuckNukem\build\obj\x86\Debug\DuckNukem.dll
+C:\Users\Kyle\Documents\DuckGame\Mods\DuckNukem\build\obj\x86\Debug\DuckNukem.pdb
+C:\Users\Kyle\Documents\DuckGame\Mods\DuckNukem.dll
+C:\Users\Kyle\Documents\DuckGame\Mods\DuckNukem.pdb
