@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="src\DNChaingun.cs" />
     <Compile Include="src\DuckNukem.cs" />
     <Compile Include="src\DNPistol.cs" />
     <Compile Include="src\DNShotgun.cs" />
