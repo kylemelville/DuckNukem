@@ -21,7 +21,7 @@ namespace DuckNukem.src {
             this._ammoType.rangeVariation = 16f;
             this.ammo = 10;
             this._manualLoad = true;
-            this._fireWait = 7f;
+            this._fireWait = 5f;
             this._numBulletsPerFire = 7;
             this._kickForce = 5f;           
             this._barrelOffsetTL = new Vec2(28f, 3f);
