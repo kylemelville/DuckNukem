@@ -18,7 +18,6 @@ namespace DuckNukem.src {
             this.collisionSize = new Vec2(this.graphic.width, this.graphic.height);
             this._holdOffset = new Vec2(2f, 1f);
             this._barrelOffsetTL = new Vec2(this.graphic.width, this.graphic.height / 2 + 1);
-            //example comment
         }
 
         private ATGrenade grenade;
